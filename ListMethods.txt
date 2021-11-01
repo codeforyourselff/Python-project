@@ -1,0 +1,11 @@
+append() => to append the values into list
+insert() => takes two arguments ,first is index and second is value
+slicing => lst[1:3] slice the index from list 1 to 3
+lst[-values] => will give element from reverse
+min() => for minimum
+max() => for maximum
+sort() => to sort list
+len() => to find length of list
+reverse() = >to reverse the list
+remove() => to remove the elements
+del() => remove element with index number
